@@ -33,16 +33,16 @@ Join us on the MiFuture journey—where skills meet opportunity!
 !MiFuture
 
 ### Some resources
-Figma:
-https://www.figma.com/file/T8LQjFKuSBpir8uIQiqVl2/Untitled?type=design&node-id=0%3A1&mode=design&t=fy7OBaEXStJnp15m-1
+- Figma:  
+[Figma UI Design Prototype](https://www.figma.com/file/T8LQjFKuSBpir8uIQiqVl2/Untitled?type=design&node-id=0%3A1&mode=design&t=fy7OBaEXStJnp15m-1)
 
-Materials:
-Skill Bursts_ Wireframe A (Presentation) - Presentation (canva.com)
-Brand Guidelines (canva.com)
-Ufi VocTech_ Product Description (Skill Bursts) - Presentation (canva.com)
+- Materials:  
+  - [Skill Bursts_ Wireframe](https://www.canva.com/design/DAF-67ayBDc/OmdVfn1uEJDkoh1zoM6ZfA/view)
+  - [Brand Guidelines](https://www.canva.com/design/DAFunBFRqco/BE1aNEfuMPTR8T9KqVT92Q/view?utm_content=DAFunBFRqco&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#3)
+  - [Ufi VocTech_ Product Description (Skill Bursts)](https://www.canva.com/design/DAFKsq4RsBQ/QzaC3ECjh5_ONpMAoCKgGw/view)
 
-Opportunities:
-Opportunity Sign Posting_ Directory.xlsx (sharepoint.com)
+- Opportunities:  
+[Opportunity](https://mifutureapp-my.sharepoint.com/:x:/g/personal/gem_mifuture_co_uk/EWLu63UojBJIvU4kJBb6ivoBoychKt7Kv7hl2RsQfbG9kQ?rtime=GSADUJFG3Eg)
 
 
 ## Getting started
