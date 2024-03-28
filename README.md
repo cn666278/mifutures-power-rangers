@@ -4,6 +4,8 @@
 
 [Our Website](https://vikramponnuswamy.github.io/)
 
+![img](https://github.com/cn666278/mifutures-power-rangers/blob/main/screenshot_mifuture.png)
+
 `MiFuture`: Navigating Your Career Journey
 Introduction
 MiFuture is a dynamic platform designed to empower individuals aged 16 and above as they navigate the critical junctures of their career paths. Our mission is to provide clarity, confidence, and practical skills beyond traditional academic routes. 
