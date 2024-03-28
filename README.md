@@ -1,5 +1,48 @@
-# miFutures power rangers
+## MiFutures Power Rangers
 
+`MiFuture`: Navigating Your Career Journey
+Introduction
+MiFuture is a dynamic platform designed to empower individuals aged 16 and above as they navigate the critical junctures of their career paths. Our mission is to provide clarity, confidence, and practical skills beyond traditional academic routes. 
+
+Let’s delve into the key aspects of MiFuture:
+### Project Aims
+1.	Clarity and Self-Discovery:
+- MiFuture helps users explore their interests, hobbies, and goals through self-assessment.
+- Personalized recommendations guide them toward suitable career paths.
+2.	Interactive Dashboard:
+- Visualize your journey on our user-friendly dashboard.
+- Track progress, celebrate achievements, and set new goals.
+3.	Problem-Solving Skill Path:
+-	Engage in gamified puzzles and challenges to enhance problem-solving skills.
+-	Unlock new levels as you gain confidence.
+4.	Decision-Making Tools:
+-	Face real-world scenarios related to career choices.
+-	Receive expert guidance based on your decisions.
+5.	Opportunities Hub:
+-	Unlock a wealth of opportunities: YouTube tutorials, online courses, e-learning events, bootcamps, and apprenticeships.
+-	Celebrate milestones and expand your horizons.
+6.	Formative & Summative Assessments:
+-	Formative assessments provide feedback during the learning process.
+-	Summative assessments evaluate your skills against industry standards.
+
+### Target Audiences
+-	Alex, 17: Ambitious but uncertain, Alex seeks practical skills beyond degrees.
+-	Parents and Teachers: Influencers who shape career choices.
+-	Employers: Seeking skilled individuals aligned with the future workforce.
+Join us on the MiFuture journey—where skills meet opportunity!
+!MiFuture
+
+### Some resources
+Figma:
+https://www.figma.com/file/T8LQjFKuSBpir8uIQiqVl2/Untitled?type=design&node-id=0%3A1&mode=design&t=fy7OBaEXStJnp15m-1
+
+Materials:
+Skill Bursts_ Wireframe A (Presentation) - Presentation (canva.com)
+Brand Guidelines (canva.com)
+Ufi VocTech_ Product Description (Skill Bursts) - Presentation (canva.com)
+
+Opportunities:
+Opportunity Sign Posting_ Directory.xlsx (sharepoint.com)
 
 
 ## Getting started
@@ -42,24 +85,6 @@ Use the built-in continuous integration in GitLab.
 - [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
 - [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
